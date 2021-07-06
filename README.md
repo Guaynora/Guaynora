@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!--
+### Hi, I'm Jonathan Guaynora 👋
+<!--  
 **Guaynora/Guaynora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+ challenge: "I Completed the #100DaysOfCode challenge focused on learning frontend from scratch.
+}
+```
