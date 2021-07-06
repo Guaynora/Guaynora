@@ -12,4 +12,4 @@ I am a new person in this world of technology and recently I am creating small p
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 ## Stats
-[![Guaynora's GitHub stats](https://github-readme-stats.vercel.app/api?username=guaynora)](https://github.com/anuraghazra/github-readme-stats)
+[![Guaynora's GitHub stats](https://github-readme-stats.vercel.app/api?username=guaynora&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
