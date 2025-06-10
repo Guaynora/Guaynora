@@ -47,5 +47,5 @@ In my day-to-day workflow, I use **Neovim** as my main code editor — customize
 ### 🌐 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan_Guaynora-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guaynora/)](https://www.linkedin.com/in/jonathan-guaynora/)
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGuayno2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JonathanGuayno2)](https://twitter.com/joneditore)
+[![Twitter Badge](https://img.shields.io/badge/-@JonathanGuayno2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joneditore)](https://twitter.com/joneditore)
 [![Gmail Badge](https://img.shields.io/badge/-guaynorajon-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guaynorajon@gmail.com)](mailto:guaynorajon@gmail.com)
