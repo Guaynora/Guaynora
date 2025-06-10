@@ -1,15 +1,51 @@
-### Hi, I'm Jonathan Guaynora 👋
-I am a new person in this world of technology and recently I am creating small personal projects to improve in the area where I like the most, which is the frontend.
+### 👋 Hi, I'm Jonathan Guaynora
 
-[![Linkedin Badge](https://img.shields.io/badge/-jonathan_guaynora-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guaynora/)](https://www.linkedin.com/in/jonathan-guaynora/)
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGuayno2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JonathanGuayno2)](https://twitter.com/JonathanGuayno2)
-[![Gmail Badge](https://img.shields.io/badge/-guaynorajon-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guaynorajon@gmail.com)](mailto:guaynorajon@gmail.com)
+I'm a software developer mainly focused on **building mobile apps with React Native**. I’m passionate about crafting smooth, intuitive, and accessible user experiences. While I’ve also worked with web and backend technologies, my core interest lies in mobile development and continuous learning.
 
-## Technologies 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+Currently, I contribute to real-world projects across both frontend and backend, working with tools like **GraphQL**, **NestJS**, and **Prisma**, while deepening my understanding of software development best practices.
 
-## Stats
+In my day-to-day workflow, I use **Neovim** as my main code editor — customized with **LazyVim**, testing plugins, and productivity tools — which helps me stay fast and focused while coding.
+
+---
+
+### 🧰 Tech Stack
+
+#### 📱 Mobile & Frontend
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+#### 🧪 Testing & Tools
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Nx](https://img.shields.io/badge/-Nx-143055?style=flat&logo=nx&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+
+---
+
+### 🚀 Currently
+
+📱 Working mainly on mobile development with React Native  
+🧠 Learning about design patterns, testing strategies, and best practices  
+⚡ Improving my productivity and setup with Neovim  
+📈 Always aiming to grow as a developer and contribute to real products  
+
+---
+
+### 📊 GitHub Stats
 [![Guaynora's GitHub stats](https://github-readme-stats.vercel.app/api?username=guaynora&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jonathan_Guaynora-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guaynora/)](https://www.linkedin.com/in/jonathan-guaynora/)
+[![Twitter Badge](https://img.shields.io/badge/-@JonathanGuayno2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JonathanGuayno2)](https://twitter.com/joneditore)
+[![Gmail Badge](https://img.shields.io/badge/-guaynorajon-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guaynorajon@gmail.com)](mailto:guaynorajon@gmail.com)
