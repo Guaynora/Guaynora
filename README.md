@@ -39,6 +39,16 @@ In my day-to-day workflow, I use **Neovim** as my main code editor — customize
 
 ---
 
+### 🛠️ My Development Setup
+
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Terminal-Zellij](https://img.shields.io/badge/Terminal-Zellij-333?style=for-the-badge)
+![OS-Fedora](https://img.shields.io/badge/OS-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Shell-Zsh](https://img.shields.io/badge/Shell-Zsh-888?style=for-the-badge&logo=gnu-bash)
+![Package Manager - yarn](https://img.shields.io/badge/Package_Manager-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 [![Guaynora's GitHub stats](https://github-readme-stats.vercel.app/api?username=guaynora&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
